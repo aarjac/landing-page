@@ -29,7 +29,11 @@ ul {
 
 li {
     font-size: 18px;
-    color: #E5E7EB;
+}
+
+a:visited, a:hover, a:active, a:link {
+    text-decoration: none;
+    color:#E5E7EB;
 }
 
 .banner {
